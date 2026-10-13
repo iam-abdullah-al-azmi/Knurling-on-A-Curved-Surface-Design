@@ -1,13 +1,12 @@
-# Concept Design Prototype of Knurling on a Curved Surface
+# A Wavy-Rimmed Pad with a Knurled Lattice on a Curved Surface
 
 ## Summary
 
----
+Knurling is a surface pattern of fine, regularly spaced ridges that is pressed or cut into a part to improve grip. It is most familiar on lathe-turned handles and knobs, where the pattern is created on a simple cylinder. This project explores a different question: how a knurled pattern can be created on a surface that is curved rather than perfectly round or flat.
 
-## Design Motivation
+The model is a pad with a smooth, wavy outer rim that rises and falls along its edge. Inside the rim, a fine lattice of small raised diamonds covers the surface and follows the curvature of the pad, so the texture stays evenly spaced even where the surface bends. The rim frames the knurled area and gives the part a clean, finished edge. The main challenge was to keep the pattern consistent and continuous across the curved surface, because a pattern that is drawn on a flat sketch tends to stretch or distort when it is wrapped onto a curve.
 
-| Name | Image |
-| :--: | :---: |
+The pad was developed as a computational model in SolidWorks. The views below show the lattice and the rim from every side, along with a section view of the part. This prototype is a base concept design that can be developed further into a real grip surface.
 
 ---
 
@@ -26,13 +25,32 @@
 
 ---
 
-## Technologies Used
-
-### Software
+## Software Used
 
 | Purpose |               Name                |
 | :-----: | :-------------------------------: |
 | Design  | SolidWorks 2024 (Student Version) |
+
+---
+
+## Tools Used
+
+| No  | Name |
+| :-: | :--: |
+| 01  |      |
+| 02  |      |
+| 03  |      |
+| 04  |      |
+| 05  |      |
+| 06  |      |
+| 07  |      |
+| 08  |      |
+| 09  |      |
+| 10  |      |
+
+---
+
+## Image of the Tool Used
 
 ---
 
