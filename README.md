@@ -80,14 +80,14 @@ The knurl was created as a modeled surface feature on a curved body, which makes
 
 ---
 
+## Acknowledgements
+
+Special thanks to the [EasyCAD Solutions](https://www.youtube.com/@EasyCADSolutions) YouTube channel for the SolidWorks tutorials that helped in creating this design.
+
+---
+
 ## References
 
 [^1]: [Knurling: Process, Types, and Applications](https://www.xometry.com/resources/machining/knurling)
 
 [^2]: [What is Knurling?](https://us.misumi-ec.com/blog/what-is-knurling/)
-
----
-
-## Acknowledgements
-
-Special thanks to the [EasyCAD Solutions](https://www.youtube.com/@EasyCADSolutions) YouTube channel for the SolidWorks tutorials that helped in creating this design.
