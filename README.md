@@ -33,7 +33,7 @@ The pad was developed as a computational model in SolidWorks. The views below sh
 
 ---
 
-## Tools Used
+## Feature Tree
 
 | No  |       Name       |
 | :-: | :--------------: |
@@ -51,9 +51,9 @@ The pad was developed as a computational model in SolidWorks. The views below sh
 
 ---
 
-## Feature Tree
+## Feature Tree Image
 
-![Image of the Tool Used](images/knruling_on_curved_surface_tool_used.png)
+![Feature Tree Image](images/knruling_on_curved_surface_feature_tree.png)
 
 ---
 
