@@ -35,22 +35,25 @@ The pad was developed as a computational model in SolidWorks. The views below sh
 
 ## Tools Used
 
-| No  | Name |
-| :-: | :--: |
-| 01  |      |
-| 02  |      |
-| 03  |      |
-| 04  |      |
-| 05  |      |
-| 06  |      |
-| 07  |      |
-| 08  |      |
-| 09  |      |
-| 10  |      |
+| No  |       Name       |
+| :-: | :--------------: |
+| 01  |   Boss Extrude   |
+| 02  | Boundary Surface |
+| 03  |      Sketch      |
+| 04  |      Split       |
+| 05  |    Move Face     |
+| 06  |  Surface Offset  |
+| 07  |    Split Line    |
+| 08  |      Sweep       |
+| 09  |     Combine      |
+| 10  |      Fillet      |
+| 11  |     Chamfer      |
 
 ---
 
 ## Image of the Tool Used
+
+![Image of the Tool Used](images/knruling_on_curved_surface_tool_used.png)
 
 ---
 
